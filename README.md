@@ -1,4 +1,4 @@
 # hello-world
 Tutorial to github
 
-Some change in order to see how barnching work
+Some change in order to see how branching work
